@@ -1,0 +1,3 @@
+[submodule "go_src/github.com/sparkmakerspace/go_src/github.com/sparkmakerspace/gocupi"]
+	path = go_src/github.com/sparkmakerspace/go_src/github.com/sparkmakerspace/gocupi
+	url = http://github.com/sparkmakerspace/gocupi
